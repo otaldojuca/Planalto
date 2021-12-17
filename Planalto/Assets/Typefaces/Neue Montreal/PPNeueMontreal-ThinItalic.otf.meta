@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 7977b1b06f005b740a150af45a6490ce
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - PP Neue Montreal
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d09c5cc4b5d867a4c9fefcff5c633147, type: 3}
+  - {fileID: 12800000, guid: 73be691d31326cb40b3539f4953095e2, type: 3}
+  - {fileID: 12800000, guid: 54328cec4159f3549a1a4b1163f47029, type: 3}
+  - {fileID: 12800000, guid: 177df9b73da95c042933cc974f6bd8e9, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
